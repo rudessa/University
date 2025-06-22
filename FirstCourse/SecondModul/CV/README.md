@@ -1,1 +1,0 @@
-# rudova_cv

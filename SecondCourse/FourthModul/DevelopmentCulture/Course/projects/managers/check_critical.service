@@ -1,6 +1,0 @@
-[Unit]
-Description=Check File for Critical Error
-
-[Service]
-Type=simple
-ExecStart=/path/to/your/check_script.sh
